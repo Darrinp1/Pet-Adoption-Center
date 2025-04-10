@@ -1,5 +1,5 @@
 .col{
-    border: 4px solid rgb(4, 3, 3);
+    border: 4px solid teal;
     text-align: center;
 }
 
@@ -47,4 +47,8 @@
 
 .heading span {
     color: var(--main)
+}
+
+body {
+    background-color: teal;
 }
